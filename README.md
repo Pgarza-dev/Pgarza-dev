@@ -5,7 +5,7 @@
 - 🔭 I’m currently finishing my finale year of studies
 - 🌱 I’m currently expanding my knowledge in JavaScript 
 - ⚡ Fun fact: I am a former Top 10 UFC Contender 
-- 📫 Reach me: [pablo-garza-4a897762](https://www.linkedin.com/in/pablo-garza-4a897762/) 
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pablo-garza-4a897762/) 
 
 <!--
 **Pgarza-dev/Pgarza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
