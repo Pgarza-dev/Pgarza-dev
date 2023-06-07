@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+"My name is Pablo Garza. Currently, I am a student at Noroff School of Technology and Digital Media with a strong passion for learning. All my projects are school projects that I built myself. I am currently open to Junior Frontend Developer jobs and anything that involves learning. 😄"
+
+- 🔭 I’m currently finishing my finale year of studies
+- 🌱 I’m currently expanding my knowledge in JavaScript 
+- ⚡ Fun fact: I am a former Top 10 UFC Contender 
+- 📫 Reach me: [pablo-garza-4a897762](https://www.linkedin.com/in/pablo-garza-4a897762/) 
+
 <!--
 **Pgarza-dev/Pgarza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
