@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,wordpress,vscode)](https://skillicons.dev)
 
 - 🔭 I’m currently finishing my finale year of studies
-- 🌱 I’m currently expanding my knowledge in JavaScript 
+- 🌱 I’m currently expanding my knowledge in Typescript and React 
 - ⚡ Fun fact: I am a former Top 10 UFC Contender 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pablo-garza-4a897762/) 
 
