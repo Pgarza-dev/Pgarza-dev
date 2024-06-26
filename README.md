@@ -2,7 +2,7 @@
 
 "My name is Pablo Garza. Currently, I am a student at Noroff School of Technology and Digital Media with a strong passion for learning. All my projects are school projects that I built myself. I am currently open to Junior Frontend Developer jobs and anything that involves learning. 😄"
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,js,html,css,bootstrap,tailwind,wordpress,vscode,nextjs,sanity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,js,nextjs,html,css,bootstrap,tailwind,vscode)](https://skillicons.dev)
 
 - 🔭 I’m currently finishing my finale year of studies
 - 🌱 I’m currently expanding my knowledge in Typescript and React 
