@@ -6,6 +6,7 @@ I'm **Pablo Garza**, a Frontend Developer at **Plantasjen Norway**, where I buil
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css,tailwind,vscode,figma,github,vercel,aws" height="35" />
 </p>
 
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pgarza-dev&show_icons=true&theme=radical)
 
 ---
 
