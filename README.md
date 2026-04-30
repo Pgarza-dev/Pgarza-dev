@@ -6,7 +6,7 @@ I'm **Pablo Garza**, a Full Stack Developer at **Plantasjen Norway**, working wi
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,css,tailwind,figma,github,vercel,aws,supabase" height="35" />
 </p>
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pgarza-dev&show_icons=true&theme=radical)
+
 
 ---
 
