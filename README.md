@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm **Pablo Garza**, a Full Stack Developer at **Plantasjen Norway**, working within **Next.js**, **React**, **TypeScript**, and **Crystallize CMS**/**GraphQl**. I recently developed an **AI-powered** chatbot for [Plantasjen.no](https://www.plantasjen.no/) using the **Vercel AI SDK** and the **OpenAI API**, integrating it with our Products, Plant recognition, Google Maps geolocation, and Weather features.
+I'm **Pablo Garza**, a Product Owner & Full Stack Developer at **Plantasjen Norway**, working within **Next.js**, **React**, **TypeScript**, **Supabase**, **Azure**, **Crystallize CMS** and **GraphQl**.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,css,tailwind,figma,github,vercel,aws,supabase" height="35" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,css,tailwind,figma,github,vercel,aws,supabase,azure,graphql" height="35" />
 </p>
 
 
@@ -11,10 +11,10 @@ I'm **Pablo Garza**, a Full Stack Developer at **Plantasjen Norway**, working wi
 ---
 
 **About Me**
+- Product Owner
 - Full Stack Developer at **Plantasjen Norway**
-- Built the production chatbot for Plantasjen.no using **Vercel AI SDK**, **OpenAI**, and **custom RAG**
 - Design the overall look of [Plantasjen.no](https://plantasjen.no/no)
-- Graduated from [Noroff School of Technology and Digital Media](https://www.noroff.no/) in **June 2024**
+- Internal Dashboard Application
 
 ---
 
